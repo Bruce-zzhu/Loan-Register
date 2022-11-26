@@ -2,7 +2,6 @@
 
 ![screenshot](./screenshots/landing_page.png)
 
-Loan Register (LR) is an app that is designed to improve user's loaning experience, making the process of loaning out and borrowing items simpler and easier than ever before.
 
 This is the only the repository for Frontend development. 
 
