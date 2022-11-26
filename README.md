@@ -3,7 +3,8 @@
 ![screenshot](./screenshots/landing_page.png)
 
 
-This is the only the repository for Frontend development. 
+This is the only the repository for Frontend development. <br/>
+The project is under subject COMP30022 in semester 2 2022.
 
 Deployed app: https://loan-register.herokuapp.com/
 
