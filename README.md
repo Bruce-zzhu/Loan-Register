@@ -17,7 +17,7 @@ npm install
 npm start
 ```
 
-### Contributors
+### Project Contributors
 * Bruce Zhu
 * Huy Luu
 * Jocelyn Ch'ng
