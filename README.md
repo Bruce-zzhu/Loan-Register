@@ -10,9 +10,9 @@ Deployed app: https://loan-register.herokuapp.com/
 
 Source code: [Server Monkeys Fontend](https://github.com/IT-Project-Server-Monkeys/Loan-Register-Frontend) 
 
-Source organisation: [Server Monkeys](https://github.com/orgs/IT-Project-Server-Monkeys/repositories)
+GitHub organisation: [Server Monkeys](https://github.com/orgs/IT-Project-Server-Monkeys/repositories)
 
-Confluence page: [Server Monkeys Confluence](https://servermonkeys.atlassian.net/wiki/spaces/IP/pages)
+Documentation on Confluence: [Server Monkeys Confluence](https://servermonkeys.atlassian.net/wiki/spaces/IP/pages)
 
 ### Run the code locally
 ```
